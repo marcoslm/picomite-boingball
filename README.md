@@ -16,6 +16,45 @@ This demo targets the PicoMite HDMI/USB RP2350A platform only. It requires the H
 
 ---
 
+## Gallery
+
+<table>
+	<tr>
+		<td align="center">
+			<a href="img/classic.jpg">
+				<img src="img/classic.jpg" alt="Classic mode" width="220">
+			</a>
+			<br>
+			<sub>Classic mode</sub>
+		</td>
+		<td align="center">
+			<a href="img/enhanced.jpg">
+				<img src="img/enhanced.jpg" alt="Enhanced mode" width="220">
+			</a>
+			<br>
+			<sub>Enhanced mode</sub>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<a href="img/wireframe.jpg">
+				<img src="img/wireframe.jpg" alt="Wireframe mode" width="220">
+			</a>
+			<br>
+			<sub>Wireframe mode</sub>
+		</td>
+		<td align="center">
+			<a href="https://www.youtube.com/watch?v=yx8g28sw-V0">
+				<img src="img/youtube.jpg" alt="Youtube video" width="220">
+			</a>
+			<br>
+			<sub>Youtube video</sub>
+		</td>
+	</tr>
+</table>
+
+---
+
 ## Repo layout
 
 - `boingball.bas`: MMBasic program
