@@ -55,11 +55,6 @@ This demo targets the PicoMite HDMI/USB RP2350A platform only. It requires the H
 
 ---
 
-## Repo layout
+## License
 
-- `boingball.bas`: MMBasic program
-- `boing_side.wav`: side rebound cue
-- `boing_floor.wav`: floor rebound cue
-- `README.md`: brief project note and target details
-
-License: MIT
+MIT
